@@ -4,6 +4,5 @@ function isLeap(year) {
 	} else {
 		return false;
 	}
-
 }
 module.exports = isLeap;
